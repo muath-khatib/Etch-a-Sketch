@@ -1,0 +1,25 @@
+.bt {
+  width: fit-content;
+  margin: 5px auto;
+}
+.clear-bt {
+  cursor: pointer;
+  padding: 10px;
+  background-color: white; 
+  color: black;
+}
+.container {
+  /* background-color: #bec7c4;
+  height: 600px;
+  border: 2px solid black; */
+  width: 600px;
+  margin: 0 auto;
+  
+  
+}
+.part{ 
+display: inline-block;
+/* background-color: #8f1227; */
+transition: 0.1s;
+margin: 0;
+} 
